@@ -2,7 +2,7 @@
 
  ___"Création d'une plateforme de streaming"___
  
- ![alt tag](/src/images/gif/otaku.gif)
+ ![Otaku](src/images/Gif/otaku.gif)
 
 ## Membres :
   - Anthony Roux
