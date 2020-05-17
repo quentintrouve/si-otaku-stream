@@ -1,19 +1,32 @@
-<h1>Semaine Charette</h1>
+# OTAKU
 
-<h2>Video Player</h2>
+ ___"Création d'une plateforme de streaming"___
+ 
+ ![alt tag](/src/images/gif/otaku.gif)
 
-<ul>
-  <li>Anthony Roux</li>
-  <li>Quentin Trouve</li>
-  <li>Hanna Achab</li>
-  <li>Sentiany Priska Sumampow</li>
-  <li>Oum Mauduit</li>
-  <li>Laurent Dashwood</li>
-</ul>
+## Membres :
+  - Anthony Roux
+  - Quentin Trouvé
+  - Hanna Achab
+  - Sentiany Priska Sumampow
+  - Oum Mauduit
+  - Laurent Dashwood
+  
+## Caractéristiques :
 
-Sur VSC, installer les plugins :
+- Thème de la plateforme : 
+  - Animés / mangas
+  
+- Support : 
+  - Desktop
 
-- Prettier (formateur de code à la sauvegarde).
-- Stylelintrc (permet de respecter un ordre précis de déclaration de propriétés, une ligne rouge signalera l'erreur).
+- Temps imparti : 
+  - 4 jours de conception
+  - 15 minutes de soutenance orale
+  
+- Cahier des charges :
+  - Une landingpage, une homepage, une page films, une page séries, une page compte
+  - Un media player
 
-Let's go !
+## Page web 
+[otaku-stream.netlify.com](https://otaku-stream.netlify.app/)
