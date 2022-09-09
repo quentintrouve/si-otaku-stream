@@ -28,7 +28,7 @@ git clone $url
 ```
 
 ```
-cd si-kaphardie
+cd si-otaku-stream
 ```
 
 ```
