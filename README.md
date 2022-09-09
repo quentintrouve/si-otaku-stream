@@ -63,6 +63,6 @@ Sass - [documentation](https://sass-lang.com/documentation/)
 
 ## 👥 Contributers
 
-Anthony Roux - [anthony-roux](https://github.com/anthony-roux)  
-Quentin Trouvé - [quentintrouve](https://github.com/quentintrouve)
+Anthony Roux - [anthony-roux](https://github.com/anthony-roux)\
+Quentin Trouvé - [quentintrouve](https://github.com/quentintrouve)\
 Hanna Achab - [AchabHanna](https://github.com/AchabHanna)
