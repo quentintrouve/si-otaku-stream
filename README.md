@@ -1,15 +1,15 @@
 # OTAKU
 
-## 🎓Disclaimer
+## 🎓 Disclaimer
 
 This site has been created for educational purposes as part of the Bachelor's curriculum of the HETIC school. The contents presented have not been the subject of a request for right of use. **This site will and should in no case be used for commercial purposes and will not be published.**
 
-## 🧢 Project Overview
+## 🎥 Project Overview
 <p align="center">
   <img src="src/images/Gif/otaku.gif">
 </p>
 
-**OTAKU** is a streaming website for mangas. This project is made respecting the **BEM nomenclature** and is built with **Javascript** and **Sass**.
+**OTAKU** is a streaming website for mangas. It integrate a video player created from scratch. This project is made respecting the **BEM nomenclature** and is built with **Javascript** and **Sass**.
 
 Time to dev: **4 days**
 
